@@ -2,8 +2,8 @@ package compact_db
 
 import (
 	"fmt"
-	"github.com/MinterTeam/go-amino"
 	"github.com/noah-blockchain/noah-go-node/core/types"
+	"github.com/tendermint/go-amino"
 	"math/big"
 )
 
