@@ -8,4 +8,3 @@ require (
 	github.com/tendermint/tm-db v0.5.0
 )
 
-replace github.com/noah-blockchain/noah-go-node => ../noah-go-node
