@@ -1,4 +1,4 @@
-module github.com/noah-blockchain/events-db
+module github.com/noah-blockchain/explorer-events-db
 
 go 1.13
 
